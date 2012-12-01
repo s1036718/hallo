@@ -8,5 +8,7 @@ namespace MvcApplication1.Models
     public class Class1
     {
         int x = 599;
+        string ietserbij = "haha";
     }
+
 }
